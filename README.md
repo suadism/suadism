@@ -9,9 +9,9 @@ I am a hard working and determined data analyst professional who is passionate a
 
 ## Projects
 
+![ScreenRecording2024-02-21at7 46 39PM-ezgif com-video-to-gif-converter](https://github.com/suadism/suadism/assets/113348907/549204a7-d9f1-4737-89b4-39cafb76bab9)
 
 
-https://github.com/suadism/suadism/assets/113348907/2c493a15-d2ab-4f09-9f9a-07c09dc02a6b
 
 
 
