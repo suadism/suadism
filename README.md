@@ -11,6 +11,10 @@ I am a hard working and determined data analyst professional who is passionate a
 
 
 
+https://github.com/suadism/suadism/assets/113348907/2c493a15-d2ab-4f09-9f9a-07c09dc02a6b
+
+
+
 
 
 ## Skills
