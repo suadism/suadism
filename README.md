@@ -9,7 +9,7 @@ I am a hard working and determined data analyst professional who is passionate a
 
 ## Projects
 
-I developed a tool that takes in the patients vitals and chief complaiant and recommends the emergency/triage level to assist healthcare workers in the ER in triaging incoming patients. This was developed after analyzing hospital records using Natural Language Processing, Supervised Machine learning and data visualization techniques. Take a look below! The healthcare worker can input the patients vitals and the tool churns a triage level within seconds. Take a look at how i developed this tool 
+I developed a tool that takes in the patients vitals and chief complaiant and recommends the emergency/triage level to assist healthcare workers in the ER in triaging incoming patients. This was developed after analyzing hospital records using Natural Language Processing, Supervised Machine learning and data visualization techniques. Take a look below! The healthcare worker can input the patients vitals and the tool churns a triage level within seconds. Take a look at how I developed this tool 
 https://github.com/suadism/CapstoneSuadMohammed/blob/main/Sprint%203%20SM%20Notebook.ipynb
 
 ![ScreenRecording2024-02-21at7 46 39PM-ezgif com-video-to-gif-converter](https://github.com/suadism/suadism/assets/113348907/549204a7-d9f1-4737-89b4-39cafb76bab9)
