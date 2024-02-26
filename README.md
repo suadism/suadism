@@ -20,7 +20,7 @@ https://github.com/suadism/CapstoneSuadMohammed/blob/main/Sprint%203%20SM%20Note
 
 
 
-## Skills
+
 <!--
 **suadism/suadism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
