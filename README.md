@@ -3,7 +3,7 @@
 
 ## About me
 
-I am a hard working and determined data analyst professional who is passionate about storytelling using data. During my career in the pharmaceutical industry I have seen  the increasing impact of data in the industry which piqued my interest. I enjoy uncovering insights from analyzing data and leveraging my skills in SQL, Python and MS Excel. I am looking for an opportunity to blend my pharmaceutical experience with my analytical skills
+I am a hard working and determined data analyst professional who is passionate about storytelling using data. During my 5 career in the pharmaceutical industry I have seen  the increasing impact of data in the industry which piqued my interest. I enjoy uncovering insights from analyzing data and leveraging my skills in SQL, Python and MS Excel. I just completed a Data Science diploma where I mastered Machine learning techniques, Statistical Analysis and Data visualization
 
 
 
